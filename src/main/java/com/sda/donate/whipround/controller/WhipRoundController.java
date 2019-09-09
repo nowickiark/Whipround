@@ -56,5 +56,7 @@ public class WhipRoundController {
         return "redirect:/";
     }
 
+    //takie tam zmiany
+
 
 }
